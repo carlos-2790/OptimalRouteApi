@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimalRouteAPI", "OptimalRouteAPI\OptimalRouteAPI.csproj", "{06814CFE-6D46-4AA6-B8F7-3373C5E26828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OptimalRouteAPI.Tests", "OptimalRouteAPI.Tests\OptimalRouteAPI.Tests.csproj", "{F7976832-1C19-4982-8B25-571338C9F455}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06814CFE-6D46-4AA6-B8F7-3373C5E26828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06814CFE-6D46-4AA6-B8F7-3373C5E26828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06814CFE-6D46-4AA6-B8F7-3373C5E26828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06814CFE-6D46-4AA6-B8F7-3373C5E26828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7976832-1C19-4982-8B25-571338C9F455}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7976832-1C19-4982-8B25-571338C9F455}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7976832-1C19-4982-8B25-571338C9F455}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7976832-1C19-4982-8B25-571338C9F455}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
