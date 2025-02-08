@@ -33,7 +33,7 @@ The project uses ASP.NET Core to implement a RESTful API. A model for the reques
    ```
    docker run -p 8080:80 optimalrouteapi
    ```
-5. Access the API via `http://localhost:8080/api/OptimalRoute`.
+5. Access the API via `http://localhost:5000/api/OptimalRoute/optimal-route`.
 
 ## Contact
 For more information, contact [Carlos Yaben] at [carlosyaben@gmail.com].
