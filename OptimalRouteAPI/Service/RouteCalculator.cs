@@ -59,7 +59,6 @@ namespace OptimalRouteAPI.Services
                 }
             }
 
-            // Reconstruir la ruta
             var route = new List<string>();
             var currentCity = destination;
 
