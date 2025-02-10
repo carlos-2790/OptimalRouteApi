@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteApi.Tests\\OptimalRouteAPI.Tests.csproj": {}
+    "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteAPI.Tests\\OptimalRouteAPI.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteApi.Tests\\OptimalRouteAPI.Tests.csproj": {
+    "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteAPI.Tests\\OptimalRouteAPI.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteApi.Tests\\OptimalRouteAPI.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteAPI.Tests\\OptimalRouteAPI.Tests.csproj",
         "projectName": "OptimalRouteAPI.Tests",
-        "projectPath": "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteApi.Tests\\OptimalRouteAPI.Tests.csproj",
+        "projectPath": "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteAPI.Tests\\OptimalRouteAPI.Tests.csproj",
         "packagesPath": "C:\\Users\\crlsy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteApi.Tests\\obj\\",
+        "outputPath": "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteAPI.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crlsy\\AppData\\Roaming\\NuGet\\NuGet.Config"

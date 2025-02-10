@@ -35,5 +35,15 @@ The project uses ASP.NET Core to implement a RESTful API. A model for the reques
    ```
 5. Access the API via `http://localhost:5000/api/OptimalRoute/optimal-route`.
 
+### Testing Instructions
+1. Navigate to the test directory:
+   ```
+   cd \OptimalRouteApi\OptimalRouteAPI.Tests
+   ```
+2. Execute the tests:
+   ```
+   dotnet test
+   ```
+
 ## Contact
 For more information, contact [Carlos Yaben] at [carlosyaben@gmail.com].

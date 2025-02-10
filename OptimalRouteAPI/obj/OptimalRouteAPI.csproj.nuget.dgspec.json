@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteApi\\OptimalRouteAPI.csproj": {}
+    "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteAPI\\OptimalRouteAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteApi\\OptimalRouteAPI.csproj": {
+    "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteAPI\\OptimalRouteAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteApi\\OptimalRouteAPI.csproj",
+        "projectUniqueName": "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteAPI\\OptimalRouteAPI.csproj",
         "projectName": "OptimalRouteAPI",
-        "projectPath": "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteApi\\OptimalRouteAPI.csproj",
+        "projectPath": "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteAPI\\OptimalRouteAPI.csproj",
         "packagesPath": "C:\\Users\\crlsy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteApi\\obj\\",
+        "outputPath": "C:\\Users\\crlsy\\OneDrive\\Escritorio\\OptimalRouteApi\\OptimalRouteAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\crlsy\\AppData\\Roaming\\NuGet\\NuGet.Config"
