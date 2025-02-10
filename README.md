@@ -19,7 +19,7 @@ The project uses ASP.NET Core to implement a RESTful API. A model for the reques
 ### Steps to Run
 1. Clone the repository:
    ```
-   git clone [Repository URL]
+   git clone https://github.com/carlos-2790/OptimalRouteApi.git
    ```
 2. Navigate to the project directory:
    ```
